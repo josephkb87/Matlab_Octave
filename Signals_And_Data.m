@@ -12,7 +12,6 @@ axis([0 3 -0.5 1.5]);
 xlabel('sec.'); title('square wave samples');
 
 
-
 % Sine and cosine signals
 fy=1; %signal frequency in Hz
 wy=2*pi*fy; %signal frequency in rad/s

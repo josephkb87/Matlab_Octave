@@ -2,7 +2,13 @@
 #This repo looks at the basics on Matlab Operations Using Octave,(a less heavy to learn and faster learning and coding curve), CLI and GUI interface that us similar to Matlab in function and usage.
 
 # Installation of Octave
-[Install octave from here](https://www.gnu.org/software/octave/download "Octave Homepage")
+[Install octave from here](https://www.gnu.org/software/octave/download)
+
+$ or
+How to Install on Windows/Linux/Mac
+-------------------------
+
+1.  Get [Octave](http://www.octave.org) for Windows.
 
 # Covered Include
 - Basic Commands in MATLAB
@@ -20,3 +26,7 @@ In this section we cover the following
 
 # Reference Text for usage has been added as a pdf.
 MATLAB - Programming with MATLAB for Beginners, A Practical Introduction To Programming And Problem Solving
+
+# Proper Documentation for you to refer to whenever needed
+[Official Octave documentation](https://octave.org/octave.pdf)
+

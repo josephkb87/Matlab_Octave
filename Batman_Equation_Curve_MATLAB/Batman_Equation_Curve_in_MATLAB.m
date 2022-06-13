@@ -1,4 +1,5 @@
-// here is a code “xr = linspace(-7,7,1500);
+%here is a code %
+“xr = linspace(-7,7,1500);
 clc
 yr = linspace(4.5,-4.5,1500);
 x = repmat( xr , [ numel(yr) 1 ] );

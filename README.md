@@ -1,5 +1,5 @@
 
-#This repo looks at the basics on Matlab Operations Using Octave,(a less heavy to learn and faster learning and coding curve), CLI and GUI interface that us similar to Matlab in function and usage.
+# Basics on Matlab Operations Using Octave, CLI and GUI interface that us similar to Matlab in function and usage.
 
 # How to Install Octave on Windows/Linux/Mac
 Install octave [from here](https://www.gnu.org/software/octave/download)

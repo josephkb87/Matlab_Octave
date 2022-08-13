@@ -9,13 +9,15 @@ OR
 Get It [here](http://www.octave.org).
 
 -------------------------
-### Covered Include
+### Covered Include;
 - Basic Commands in MATLAB
 - Flow Control Statements in MATLAB(if_else while, for)
 - Math Functions(Trigonometric, Exponential, Complex, Rounding and remainder, Specialized math functions,Number theoretic functions, Coordinate transforms
 - Plots in MATLAB(Basic Plots and Graphs,axis, grid, bar,legending, titleing, xlabel, ylabel, zlabel,xlim, ylim, zlim, stem, subplot, Hold)
+
 -------------------------
-In this section we cover the following 
+### We cover the following;
+
  * Matrix arithmetic operations and array arithmetic operations.  
  * Basic Operations on Electrical, Magnetic and ElectroMagnetc Circuits in Matlab.
  * Transformers circuits 
@@ -23,9 +25,9 @@ In this section we cover the following
 
 -------------------------
 
-### Reference Text for usage has been added as a pdf.
+### Reference Text for Usage.
 MATLAB - Programming with MATLAB for Beginners, A Practical Introduction To Programming And Problem Solving
 
-### Proper Documentation for you to refer to whenever needed
+### Documentation needed
 [Official Octave documentation](https://octave.org/octave.pdf)
 

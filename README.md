@@ -2,11 +2,11 @@
 ### Basics on Matlab Operations Using Octave, CLI and GUI interface that us similar to Matlab in function and usage.
 
 ### How to Install Octave on Windows/Linux/Mac
-Install octave [from here](https://www.gnu.org/software/octave/download)
+Install octave [from here](https://www.gnu.org/software/octave/download).
 
 OR
 
-Get [Octave](http://www.octave.org) from here
+Get It[from here](http://www.octave.org).
 
 -------------------------
 ### Covered Include

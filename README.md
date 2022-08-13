@@ -6,7 +6,7 @@ Install octave [from here](https://www.gnu.org/software/octave/download).
 
 OR
 
-Get It[from here](http://www.octave.org).
+Get It [here](http://www.octave.org).
 
 -------------------------
 ### Covered Include

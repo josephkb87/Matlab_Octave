@@ -1,4 +1,4 @@
-
+pulls
 ### Basics on Matlab Operations Using Octave, CLI and GUI interface 
 ### That us similar to Matlab in function and usage.
 
@@ -31,4 +31,22 @@ MATLAB - Programming with MATLAB for Beginners, A Practical Introduction To Prog
 
 ### Documentation needed
 [Official Octave documentation](https://octave.org/octave.pdf)
+
+## Ways You Can Help/Support this project
+
+- **Star** this repository and tell all your friends about it.
+- **Watch** for new releases to get an update if something happens.
+- [**Open an Issue**](https://github.com/josephkb87/Matlab_Octave/issues/new/choose) if you catch any error in copy text or within the project itself.
+- **Open a Pull Request** to include support for adding more 1rd party service's links or fixes against [existing issues](https://github.com/josephkb87/Matlab_Octave/issues).
+
+- If you can spare a few 💵:
+
+  - [Buy me a coffee :coffee:](https://www.buymeacoffee.com/josephkb87) (one-time),
+  - or [Sponsor me on GitHub](https://github.com/sponsors/josephkb87) (recurring monthly).
+
+- Tell me you like this project or how it helped you out!
+
+  - [Comment in the project's guestbook](https://github.com/josephkb87/Matlab_Octave/issues/01) :blush:,
+  - Reach out on [Twitter](https://twitter.com/clydekingkid),
+  - or [send a nice email my way](mailto:kiyinijoseph@gmail@gmail.com)!
 

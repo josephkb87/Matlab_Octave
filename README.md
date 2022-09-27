@@ -1,4 +1,28 @@
-pulls
+Hi, 👋. Welcome.
+<a href="https://github.com/josephkb87/readme.md"><img src="https://img.shields.io/github/stars/josephkb87/app-privacy-policy-generator.svg?style=social&amp;label=Star" alt="GitHub stars"></a>
+
+<a href="https://github.com/josephkb87/josephkb87.github.io/fork"><img src="https://img.shields.io/github/forks/josephkb87/josephkb87.svg?style=social&amp;label=Fork" alt="GitHub forks"></a>
+
+<a href="https://github.com/josephkb87/josephkb87"><img src="https://img.shields.io/github/watchers/josephkb87/josephkb87.svg?style=social&amp;label=Watch" alt="GitHub watchers"></a>
+
+<a href="https://github.com/josephkb87/josephkb87"><img src="https://img.shields.io/github/followers/josephkb87.svg?style=social&amp;label=Follow" alt="GitHub followers"></a>
+
+<a href="https://twitter.com/josephkb87"><img src="https://img.shields.io/twitter/follow/clydekingkid.svg?style=social" alt="Twitter Follow"></a>
+ 
+ <div> 🌱
+  <a href="https://www.buymeacoffee.com/josephkb87" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>  🌱</div>
+
+- If you can spare a few 💵:
+
+  - [Buy me a coffee :coffee:](https://www.buymeacoffee.com/josephkb87) (one-time),
+  - or [Sponsor me on GitHub](https://github.com/sponsors/josephkb87) (recurring monthly).
+
+- Tell me you like this project or how it helped you out!
+
+  - [Comment in the project's guestbook](https://github.com/josephkb87/app-privacy-policy-generator/issues/) :blush:,
+  - Reach out on [Twitter](https://twitter.com/clydekingkid),
+  - or [send a nice email my way](mailto:kiyinijoseph@gmail@gmail.com)!
+
 ### Basics on Matlab Operations Using Octave, CLI and GUI interface 
 ### That us similar to Matlab in function and usage.
 

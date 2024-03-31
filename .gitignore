@@ -12,6 +12,8 @@
 *.map
 *.exp
 
+MATLAB.gitignore
+
 # Precompiled Headers
 *.gch
 *.pch

@@ -4,8 +4,7 @@ In this Matlab_Octave repo, which is similar to Matlab in function and usage, we
 
 #### Requirements.
 
-- Install Octave on Windows/Linux/Mac
-[Install octave](https://www.gnu.org/software/octave/download). OR [Get it here](http://www.octave.org).
+- [Install octave](https://www.gnu.org/software/octave/download) on Windows/Linux/Mac. OR [Get it here](http://www.octave.org).
 
 - [Install VSCode](https://github.com/vscodium/vscodium/releases) or similar IDE on Windows/Linux/Mac.
 

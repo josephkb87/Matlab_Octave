@@ -1,6 +1,6 @@
 Hi, 👋. Welcome .
 
-</a><a href="https://josephkb87.github.io">About Me.</a> <a href="https://linktr.ee/jungbasher87">My Socials</a> <a href="https://github.com/josephkb87?tab=repositories"> My work </a> <a href="https://github.com/josephkb87?tab=projects">My Projects</a> <a href="https://github.com/josephkb87?tab=projects">If you can,kindly support my work</a>🌱
+</a><a href="https://github.com/josephkb87">About Me.</a> <a href="https://linktr.ee/jungbasher87">My Socials</a> <a href="https://github.com/josephkb87?tab=repositories"> My work </a> <a href="https://github.com/josephkb87?tab=projects">My Projects</a> <a href="https://github.com/josephkb87?tab=projects">.
  
 #### About
 In this Matlab_Octave repo, which is similar to Matlab in function and usage, we will cover the Basics on Matlab Operations Using Octave, a CLI and GUI interface.
@@ -12,7 +12,7 @@ In this Matlab_Octave repo, which is similar to Matlab in function and usage, we
 - [Install VSCode](https://github.com/vscodium/vscodium/releases) or similar IDE on Windows/Linux/Mac.
 
 -------------------------
-#### we will look;
+#### We will look at;
 
 * Basic Commands in MATLAB
   
@@ -53,16 +53,20 @@ In this Matlab_Octave repo, which is similar to Matlab in function and usage, we
 - **Open a Pull Request** to include support for adding more 3rd party service's links or fixes against [existing issues](https://github.com/josephkb87/Matlab_Octave/issues).
 
 -------------------------
-- If you can:
+** If you can:
 
-  - [Buy me a coffee :coffee:](https://www.buymeacoffee.com/josephkb87) (one-time),or [Sponsor me ](https://github.com/sponsors/josephkb87) .
+  * [Buy me a coffee :coffee:](https://www.buymeacoffee.com/josephkb87) (one-time),OR [Sponsor me ](https://github.com/sponsors/josephkb87).
 
-  - [Comment in the project's guestbook](https://github.com/josephkb87/Matlab_Octave/issues/99) :blush:,
-  - Reach out on </a><a href="https://linktr.ee/jungbasher87">My Socials</a>.
+  * [Comment in the project's guestbook](https://github.com/josephkb87/Matlab_Octave/issues/99) :blush:, OR 
+  
+  * Reach out on </a><a href="https://linktr.ee/jungbasher87">My Socials</a>.
     
 -------------------------
-#### Documentation
-[Octave](https://octave.org/octave.pdf) [Contribute](..docs/Contributing.md) [CHANGELOG](..docs/CHANGELOG.md) [Docs](..docs/) [Attributions](..docs/Attributions.md) [CodeOfConduct](..docs/CodeOfConduct.md) [SECURITY](..docs/SECURITY.md)
+
+#### Docs
+
+[About Me](https://github.com/josephkb87) [About Octave](https://octave.org/octave.pdf) [README](../docs/README.md) [CHANGELOG](../docs/CHANGELOG.md) [Contribute](../docs/CONTRIBUTING.md) [Pull Requests](../docs/blob/PRs.md)  [SECURITY](../docs/SECURITY.md) [Attributions](..docs/Attributions.md) [CodeOfConduct](../docs/CodeOfConduct.md) [LICENSE](../docs/LICENSE.md)
+
 
  <!--START_SECTION:waka-->
 

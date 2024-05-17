@@ -2,11 +2,13 @@
 % A power system has two loads attached to a 6 ? line with a supply
 % current of values of 5 Angle 0°A, if the loads data are given as:
 % Load 1: P = 100 W at 0.8 pf leading
-% Load 2: P = 1000 W at 0.7 pf lagging. Determine:
+% Load 2: P = 1000 W at 0.7 pf lagging. 
+
+Determine:
 % a) The value of the total watts, VAR, and VA for the circuit
 % b) Value of the supply voltage E
 % c) The power factor for the circuit
-% d) Type of element and their impedance in each box
+% d) Type of element and their impedance in each box.
 % e) Write a MATLAB program to verify the answers.
 
 % Solution

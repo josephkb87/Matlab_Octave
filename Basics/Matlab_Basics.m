@@ -79,7 +79,7 @@ eye(2,4)
 eye(2)
 %zeros(m,n) % this function returns an m-by-n matrix of zeros. I.e. all the elements of this matrix will be zero
 zeros(2,4)
-%ones(m,n) As the name indicates it returns an m-by-n matrix of ones. All the elements in this matrix are ‘1’
+%ones(m,n) As the name indicates it returns an m-by-n matrix of ones. All the elements in this matrix are ï¿½1ï¿½
 ones(2,4)
 %diag(A) This function is used to extract the diagonal of matrix A. this plays a lot of significance in operations on matrices.
 diag(2)
@@ -138,6 +138,7 @@ a (2,1) % We are trying to get element of 1st column of 2nd row
 % This results into a printour of 40
 a(3,1) % This gives us element 70
 a (1,3) % this results into an error because we dont have values in the 3rd column,bcos it is a 2 column matrix
+
 %This results into a printout of the error:error: a(_,3): out of bound 2 (dimensions are 3x2)
 %Colon Operator & usage in a Matrix
 b= (0;0.01;0.02;0.03; ;1)
@@ -147,7 +148,7 @@ a(2,:)
 %Dimension
 % To determine the dimensions of a matrix or vector, use the command size.
 % Transposing a matrix
-% The transpose operation is denoted by an apostrophe or a single quote (‘). It flips a matrix about its main diagonal and it turns a row vector into a column vector. Thus,
+% The transpose operation is denoted by an apostrophe or a single quote (ï¿½). It flips a matrix about its main diagonal and it turns a row vector into a column vector. Thus,
 % Matrix generators:
 % Matrix generator functions of MATLAB provide an option for generation variety of matrices. 
 % These options range from Identity matrix, ones matrix to zero matrix and so on.
@@ -161,7 +162,7 @@ eye(2)
 %zeros(m,n) % this function returns an m-by-n matrix of zeros. I.e. all the elements of this matrix will be zero
 zeros(2,4)
 
-%ones(m,n) As the name indicates it returns an m-by-n matrix of ones. All the elements in this matrix are ‘1’
+%ones(m,n) As the name indicates it returns an m-by-n matrix of ones. All the elements in this matrix are ï¿½1ï¿½
 ones(2,4)
 
 %diag(A) This function is used to extract the diagonal of matrix A. this plays a lot of significance in operations on matrices.
@@ -187,7 +188,7 @@ F1 = eig(X)
 
 norm
 %Matrix and vector norms
-%For matrices…
+%For matricesï¿½
 %NORM(X) is the largest singular value of X, max(svd(X)).
 X =[1:2; 2:4; 1:6]
 Norm(x) = max(svd(X))
@@ -201,15 +202,15 @@ m1 = NORM(X,2)
 m2 = NORM(X,1) = max(sum(abs(X))).
 
 %NORM(X,inf) is the infinity norm of X, the largest row sum,
-#NORM(X,1) = max(sum(abs(X’))).
+#NORM(X,1) = max(sum(abs(Xï¿½))).
 r2 = NORM(X,1)
 
-%NORM(X,‘fro’) is the Frobenius norm, sqrt(sum(diag(X’*X))).
-#NORM(X,‘fro’) = sqrt(sum(diag(X’*X)))
-r1 = NORM(X,‘fro’)
+%NORM(X,ï¿½froï¿½) is the Frobenius norm, sqrt(sum(diag(Xï¿½*X))).
+#NORM(X,ï¿½froï¿½) = sqrt(sum(diag(Xï¿½*X)))
+r1 = NORM(X,ï¿½froï¿½)
 
-% NORM(X,P) is available for matrix X only if P is 1, 2, inf or ‘fro’.
-% For vectors…
+% NORM(X,P) is available for matrix X only if P is 1, 2, inf or ï¿½froï¿½.
+% For vectorsï¿½
 %NORM(V,P) = sum(abs(V).^P)^(1/P)
 p = [1:2 ;2:4; 1:6]
 v =[1:6 ;1:2; 2:4]

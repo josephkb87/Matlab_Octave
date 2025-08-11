@@ -1,7 +1,7 @@
 CFD CODES
 
 #### About
-In this CFD Codes , we define and derive functions using the following mways;
+In this CFD Codes , we define and derive functions using the following ways;
 
 1. Derivativing the function - Theoretically
 2. Finite Difference Method - Forward

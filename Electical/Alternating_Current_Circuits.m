@@ -1,4 +1,5 @@
 % Problem 1
+
 % A power system has two loads attached to a 6 ? line with a supply
 % current of values of 5 Angle 0°A, if the loads data are given as:
 % Load 1: P = 100 W at 0.8 pf leading

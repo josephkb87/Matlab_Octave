@@ -1,8 +1,6 @@
 Hi, 👋. Welcome .
-
-</a><a href="https://github.com/josephkb87">About Me.</a> <a href="https://linktr.ee/jungbasher87">My Socials</a> <a href="https://github.com/josephkb87?tab=repositories"> My work </a> <a href="https://github.com/josephkb87?tab=projects">My Projects</a> <a href="https://github.com/josephkb87?tab=projects">.
  
-#### About
+## About
 In this Matlab_Octave repo, which is similar to Matlab in function and usage, we will cover the Basics on Matlab Operations Using Octave, a CLI and GUI interface.
 
 #### Requirements.
@@ -10,6 +8,8 @@ In this Matlab_Octave repo, which is similar to Matlab in function and usage, we
 - [Install octave](https://www.gnu.org/software/octave/download) on Windows/Linux/Mac. OR [Get it here](http://www.octave.org).
 
 - [Install VSCode](https://github.com/vscodium/vscodium/releases) or similar IDE on Windows/Linux/Mac.
+
+- - [Positron](https://github.com/posit-dev/positron/releases) or similar IDE on Windows/Linux/Mac.
 
 -------------------------
 #### We will look at;
@@ -55,18 +55,21 @@ In this Matlab_Octave repo, which is similar to Matlab in function and usage, we
 -------------------------
 ** If you can:
 
-  * [Buy me a coffee :coffee:](https://www.buymeacoffee.com/josephkb87) (one-time),OR [Sponsor me ](https://github.com/sponsors/josephkb87).
-
-  * [Comment in the project's guestbook](https://github.com/josephkb87/Matlab_Octave/issues/99) :blush:, OR 
-  
-  * Reach out on </a><a href="https://linktr.ee/jungbasher87">My Socials</a>.
-    
+Please add yourself to the  [AUTHORS](https://www.github.com/josephkb87/Matlab_Octave/docs/AUTHORS.md) yourself to the AUTHORS of this work.
 -------------------------
 
 #### Docs
 
-[About Me](https://github.com/josephkb87) [About Octave](https://octave.org/octave.pdf) [README](../docs/README.md) [CHANGELOG](../docs/CHANGELOG.md) [Contribute](../docs/CONTRIBUTING.md) [Pull Requests](../docs/blob/PRs.md)  [SECURITY](../docs/SECURITY.md) [Attributions](..docs/Attributions.md) [CodeOfConduct](../docs/CodeOfConduct.md) [LICENSE](../docs/LICENSE.md)
-
+[README](../docs/README.md) [About Me](https://github.com/josephkb87) [About Octave](https://octave.org/octave.pdf)
+[CHANGELOG](../docs/CHANGELOG.md) 
+[Contribute](../docs/CONTRIBUTING.md) 
+[Pull Requests](../docs/blob/PRs.md)  
+[SECURITY](../docs/SECURITY.md) 
+[Attributions](..docs/Attributions.md) 
+[CodeOfConduct](../docs/CodeOfConduct.md)
+[LICENSE](../docs/LICENSE.md)
+[PRs.md](../docs/PRs.md) 
+[Issues](../docs/Issues.md)
 
  <!--START_SECTION:waka-->
 

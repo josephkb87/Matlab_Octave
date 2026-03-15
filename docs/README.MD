@@ -5,7 +5,7 @@ In this Matlab_Octave repo, which is similar to Matlab in function and usage, we
 
 #### Requirements.
 
-- [Install octave](https://www.gnu.org/software/octave/download) on Windows/Linux/Mac. OR [Get it here](http://www.octave.org).
+- [Install GNU Octave](https://www.gnu.org/software/octave/download) on Windows/Linux/Mac. OR [Get it here](http://www.octave.org).
 
 - [Install VSCode](https://github.com/vscodium/vscodium/releases) or similar IDE on Windows/Linux/Mac.
 
@@ -14,7 +14,7 @@ In this Matlab_Octave repo, which is similar to Matlab in function and usage, we
 -------------------------
 #### We will look at;
 
-* Basic Commands in MATLAB
+++ Basic Commands in MATLAB
   
 * Flow Control Statements in MATLAB(if_else while, for)
   
@@ -26,13 +26,18 @@ In this Matlab_Octave repo, which is similar to Matlab in function and usage, we
 
 * Basic Operations on Electrical, Magnetic and ElectroMagnetc Circuits in Matlab.
 
-* Transformers circuits.
+++ Transformers circuits.
 
 * Types of Signals and Operations.
 
 * advanced problems with matlab.
 
 * Some mathematical problems with matlab.  
+
+++ Filters
+* Function and Application of Filters
+
+* Comparing 1D Vs 2D Vs 3D Filters
 
 -------------------------
 #### Literature

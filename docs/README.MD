@@ -37,8 +37,7 @@ In this Matlab_Octave repo, which is similar to Matlab in function and usage, we
 ++ Filters
 * Function and Application of Filters
 
-* Comparing 1D 2D 3D Filters
-
+* Comparing 1D Vs 2D Vs 3D Filters
 
 -------------------------
 #### Literature

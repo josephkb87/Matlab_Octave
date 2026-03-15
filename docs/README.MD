@@ -35,6 +35,11 @@ In this Matlab_Octave repo, which is similar to Matlab in function and usage, we
 * Some mathematical problems with matlab.  
 
 ++ Filters
+* Function and Application of Filters
+
+* Comparing 1D 2D 3D Filters
+
+
 -------------------------
 #### Literature
 

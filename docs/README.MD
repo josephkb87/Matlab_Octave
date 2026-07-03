@@ -1,5 +1,6 @@
-Hi, 👋. Welcome .
- 
+
+I am sorry, there has been a really huge lag in presenting the clear updates to the Project.New references to the [project are here](#https//www.oassp.org/matlaboctave/Matlab_Octave.md)
+
 ## About
 In this Matlab_Octave repo, which is similar to Matlab in function and usage, we will cover the Basics on Matlab Operations Using Octave, a CLI and GUI interface.
 
